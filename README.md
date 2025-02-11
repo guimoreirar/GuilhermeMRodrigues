@@ -1,23 +1,36 @@
-### Olá, eu sou o Guilherme! 👋
+### Hello, I'm Guilherme! 👋  
 
-- 🔭 I'm currently working as a DevOps/SRE
+🔭 I'm currently working as a DevOps/SRE
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guimoreirar)](https://github.com/guimoreirar)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-moreira-098027118/)](https://www.linkedin.com/in/guilherme-moreira-098027118/)
+💡 **About Me:**  
+- 📚 Always learning about new technologies and best practices in DevOps/SRE.
+  
+### 🚀 Technologies & Tools  
+#### ☁️ Cloud & Infrastructure  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimoreirar)](https://github.com/guimoreirar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimoreirar)](https://github.com/guimoreirar/github-readme-stats)
-<!--
-**guimoreirar/guimoreirar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📊 Monitoring & Observability  
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)   
+![Splunk](https://img.shields.io/badge/Splunk-%23000000?style=for-the-badge&logo=splunk&logoColor=white)   
+![Datadog](https://img.shields.io/badge/Datadog-%235633EC?style=for-the-badge&logo=datadog&logoColor=white)  
+![New Relic](https://img.shields.io/badge/New%20Relic-%23008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 
-Here are some ideas to get you started:
+#### 🔧 DevOps & CI/CD  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Languages  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### 📈 GitHub Stats  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimoreirar&show_icons=true&theme=radical)](https://github.com/guimoreirar)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimoreirar&layout=compact&theme=radical)](https://github.com/guimoreirar)  
+
+### 📫 How to reach me  
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guimoreirar)](https://github.com/guimoreirar)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-moreira-rodrigues/)](https://www.linkedin.com/in/guilherme-moreira-rodrigues/)  
